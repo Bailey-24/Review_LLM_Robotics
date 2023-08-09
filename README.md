@@ -20,5 +20,5 @@
 
 
 # 感谢以下链接
-[Everything-LLMs-And-Robotics]([url](https://github.com/jrin771/Everything-LLMs-And-Robotics)https://github.com/jrin771/Everything-LLMs-And-Robotics)
+[Everything-LLMs-And-Robotics](https://github.com/jrin771/Everything-LLMs-And-Robotics)
 [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
