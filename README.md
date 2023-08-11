@@ -60,10 +60,14 @@
 
 - **VLMaps**: "Visual Language Maps for Robot Navigation", arXiv, Mar 2023. [[Paper](https://arxiv.org/abs/2210.05714)] [[Code](https://github.com/PrieureDeSion/drive-any-robot)] [[Website](https://sites.google.com/view/drive-any-robot)]
 
-- **CLIP-Nav**: "CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation" [[Paper](https://arxiv.org/abs/2211.16649)] 
-- **GNM**:  "GNM: A General Navigation Model to Drive Any Robot", *arXiv, Mar 2023*. [[Paper](https://arxiv.org/abs/2210.03370)] [[Code](https://github.com/vlmaps/vlmaps)] [[Website](https://vlmaps.github.io/)]
+- **GNM**:  "GNM: A General Navigation Model to Drive Any Robot", arXiv, Oct 2022. [[Paper](https://arxiv.org/abs/2210.03370)] [[Code](https://github.com/vlmaps/vlmaps)] [[Website](https://vlmaps.github.io/)]
+
+- **CLIP-Nav**: "CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation", arXiv, Nov 2022. [[Paper](https://arxiv.org/abs/2211.16649)] 
+
 - **ADAPT**: "ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts", CVPR, May 2022. [[Paper](https://arxiv.org/abs/2205.15509)]
+
 - **CoW**: "CLIP on Wheels: Zero-Shot Object Navigation as Object Localization and Exploration", arXiv, Mar 2022. [[Paper](https://arxiv.org/abs/2203.10421)] [[Website](https://cow.cs.columbia.edu/)]
+
 - **Recurrent VLN-BERT**: "A Recurrent Vision-and-Language BERT for Navigation", CVPR, Jun 2021 [[Paper](https://arxiv.org/abs/2011.13922)] [[Code](https://github.com/YicongHong/Recurrent-VLN-BERT)]
 
 - **VLN-BERT**: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web", ECCV, Apr 2020 [[Paper](https://arxiv.org/abs/2004.14973)] [[Code](https://github.com/arjunmajum/vln-bert)]
