@@ -34,7 +34,7 @@
 
 - **ProgPrompt**: "Generating Situated Robot Task Plans using Large Language Models", arXiv, Sept 2022. [[Paper](https://arxiv.org/abs/2209.11302)] [[Website](https://progprompt.github.io/)]
 
-- **LM-Nav**: "Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action", arXiv, July 2022. [[Paper](https://arxiv.org/abs/2207.04429)] [[Code](https://github.com/blazejosinski/lm_nav)] [[Website](https://sites.google.com/view/lmnav)]
+
  - **InnerMonlogue**: "Inner Monologue: Embodied Reasoning through Planning with Language Models", arXiv, July 2022. [[Paper](https://arxiv.org/abs/2207.05608)] [[Website](https://innermonologue.github.io/)]
 
 - **VirtualHome**: "VirtualHome: Simulating Household Activities via Programs", arXiv,    Jun 2018.  [[Paper](https://arxiv.org/abs/1806.07011)] [[Code](https://github.com/xavierpuigf/virtualhome)] [[Website](http://virtual-home.org/)]
@@ -71,7 +71,8 @@
 - **Recurrent VLN-BERT**: "A Recurrent Vision-and-Language BERT for Navigation", CVPR, Jun 2021 [[Paper](https://arxiv.org/abs/2011.13922)] [[Code](https://github.com/YicongHong/Recurrent-VLN-BERT)]
 
 - **VLN-BERT**: "Improving Vision-and-Language Navigation with Image-Text Pairs from the Web", ECCV, Apr 2020 [[Paper](https://arxiv.org/abs/2004.14973)] [[Code](https://github.com/arjunmajum/vln-bert)]
-
+  
+- **LM-Nav**: "Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action", arXiv, July 2022. [[Paper](https://arxiv.org/abs/2207.04429)] [[Code](https://github.com/blazejosinski/lm_nav)] [[Website](https://sites.google.com/view/lmnav)]
   
 
 # 感谢以下链接
